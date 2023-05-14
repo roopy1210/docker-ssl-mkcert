@@ -8,7 +8,7 @@ https://chocolatey.org/install 에서 Now run the following command: 부분 명�
 choco install mkcert
 
 ### *3.인증서 생성하기*
-mkcert -install
+mkcert -install \
 mkcert localhost
 
 ### *4.docker-compose.yml 작성하기*
